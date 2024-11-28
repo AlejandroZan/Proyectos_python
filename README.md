@@ -1,1 +1,1 @@
-En este repositorio estaré cargando mis archivos iniciales (scripts) de pequeños proyectos elaborados con Python.
+En este repositorio estaré cargando mis archivos iniciales (scripts) de pequeños proyectos elaborados con Python. Muchos serán sencillos y más que todo para aprender lo básico con fundamentos iniciales.
